@@ -1,0 +1,1534 @@
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 48px;
+        font-size: 20px;
+    }
+    .register_btn {
+        margin-left: 70px;
+        margin-top: 80px;
+    }
+    .register_btn a {
+        padding: 12px 24px;
+        border-bottom: 3px solid;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    .register_btn a:last-child {
+        margin-left: 10px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 14px;
+        font-size: 17px;
+    }
+    .register_btn {
+        margin-left: 70px;
+        margin-top: 80px;
+    }
+    .register_btn a {
+        padding: 8px 24px;
+        border-bottom: 3px solid;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    .register_btn a:last-child {
+        margin-left: 10px;
+    }
+    #banner {
+        padding-top: 264px;
+        padding-bottom: 160px;
+    }
+    #banner .banner_image {
+        left: 0px;
+    }
+    #banner .banner_text h5 {
+        font-size: 18px;
+    }
+    #banner .banner_text h3 {
+        font-size: 200px;
+    }
+    #banner .banner_text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #banner .banner_text a {
+        padding: 10px 20px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #service .service_card {
+        padding: 20px 0;
+        border-bottom: 3px solid #3a0090;
+    }
+    #service .service_card h4 {
+        font-size: 33px;
+    }
+    #service .service_card h3 {
+        font-size: 25px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        text-shadow: 2px 5px 2px #000;
+    }
+    #service .service_card p {
+        font-size: 14px;
+    }
+    #relatedGames {
+        padding-top: 140px;
+    }
+    #relatedGames .relatedGames_heading {
+        padding-bottom: 40px;
+    }
+    #relatedGames .relatedGames_heading h3,#plans .plans_heading h3 {
+        font-size: 40px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text h3 {
+        padding-bottom: 16px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text a {
+        padding: 10px 25px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 18px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #plans {
+        padding-top: 60px;
+    }
+    #plans .plans_card .top_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid #3a0090;
+    }
+    #plans .plans_card .top_bar h6 {
+        font-size: 15px;
+    }
+    #plans .plans_card .main_card .header_part h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 30px;
+    }
+    #plans .plans_card .main_card .header_part h4 {
+        font-size: 40px;
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+    #plans .plans_card .main_card .header_part {
+        padding: 30px 45px 15px 45px;
+    }
+    #plans .plans_card .main_card .main_part {
+        padding: 30px 45px 30px 45px;
+    }
+    #plans .plans_card .main_card .main_part p {
+        font-size: 16px;
+    }
+    #plans .plans_card .main_card .main_part p span {
+        padding-bottom: 20px;
+    }
+    #plans .plans_card .main_card .bottom_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 18px;
+        padding-right: 18px;
+        border-bottom: 3px solid #3a0090;
+        left: 50%;
+        transform: translate(-50%,50%);
+    }
+    #plans .plans_card .main_card .bottom_bar a {
+	font-size: 22px;
+    }
+    .contactPageMainOverly .contact_item .contact_info {
+        width: 285px;
+        padding-left: 20px;
+    }
+    .defrant_banner_text h3 {
+        font-size: 28px;
+    }
+    .defrant_banner_text h4 {
+        font-size: 18px;
+    }
+    /* promotional page */
+    .promotion_image_text {
+        padding-top: 100px;
+    }
+    .promotion_image_text h3 {
+        font-size: 70px;
+    }
+
+    .promotion_banner_text h3 {
+        font-size: 80px;
+    }
+    .promotion_banner_text h4 {
+        font-size: 40px;
+        padding-left: 0;
+    }
+    .promotion_banner_text h4 span {
+        font-size: 50px;
+    }
+    .promotion_banner_text a {
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        border-bottom: 3px solid #661355;
+    }
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-brand {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-right: 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 35px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .navbar-collapse {
+        background: #000;
+        padding-bottom: 40px;
+        border-radius: 20px;
+    }
+    .register_btn a {
+        padding: 12px 24px;
+        border-bottom: 3px solid;
+        font-size: 18px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    .register_btn {
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    #banner {
+        padding-top: 264px;
+        padding-bottom: 160px;
+    }
+    #banner .banner_image {
+        left: 0px;
+    }
+    #banner .banner_text h5 {
+        font-size: 18px;
+    }
+    #banner .banner_text h3 {
+        font-size: 200px;
+    }
+    #banner .banner_text p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #banner .banner_text a {
+        padding: 10px 20px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #service .service_card {
+        background: #6218d1;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 25px;
+        border-bottom: 3px solid #3a0090;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+    #service .service_card h4 {
+        font-size: 40px;
+    }
+    #service .service_card h3 {
+        font-size: 24px;
+        padding-top: 14px;
+        padding-bottom: 7px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #service .service_card p {
+        font-size: 13px;
+    }
+    #relatedGames {
+        padding-top: 130px;
+        padding-bottom: 50px;
+    }
+    #relatedGames .relatedGames_heading h3 {
+        font-size: 30px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text h3 {
+        font-size: 20px;
+        padding-bottom: 2px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text a {
+        padding: 8px 24px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #freeSpin {
+        padding-top: 50px;
+    }
+    #freeSpin .freeSpin_text h3 {
+        font-size: 30px;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    #freeSpin .freeSpin_text p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    #freeSpin .freeSpin_text p span {
+        padding-top: 20px;
+    }
+    #plans {
+        padding-top: 50px;
+    }
+    #plans .plans_heading h3 {
+        font-size: 30px;
+        padding-bottom: 40px;
+    }
+    #plans .plans_card .top_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid #3a0090;
+    }
+    #plans .plans_card .top_bar h6 {
+        font-size: 15px;
+    }
+    #plans .plans_card .main_card .header_part h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 21px;
+    }
+    #plans .plans_card .main_card .header_part h4 {
+        font-size: 28px;
+        padding-top: 15px;
+        padding-bottom: 7px;
+    }
+    #plans .plans_card .main_card .header_part {
+        padding: 30px 45px 15px 45px;
+    }
+    #plans .plans_card .main_card .main_part {
+        padding: 15px 45px 15px 45px;
+    }
+    #plans .plans_card .main_card .main_part p {
+        font-size: 11px;
+    }
+    #plans .plans_card .main_card .main_part p span {
+        padding-bottom: 15px;
+    }
+    #plans .plans_card .main_card .bottom_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 18px;
+        padding-right: 18px;
+        border-bottom: 3px solid #3a0090;
+        border-radius: 5px;
+        left: 50%;
+        transform: translate(-50%,50%);
+    }
+    #plans .plans_card .main_card .bottom_bar a {
+        font-family: "Anton", sans-serif;
+        font-weight: 400;
+        color: #fff;
+        text-shadow: 2px 5px 2px #000;
+        font-size: 14px;
+    }
+    #event_faq {
+        padding-bottom: 50px;
+    }
+    #event_faq .faq_text h3 {
+        padding-bottom: 30px;
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .accordion{
+        padding-bottom: 40px;
+    }
+    #event_faq .accordion .accordion-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0px;
+        border: none;
+    }
+    #event_faq .accordion .accordion-item .accordion-header .accordion-button {
+        font-size: 16px;
+    }
+    #event_faq .accordion .accordion-item .accordion-body {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    #event_faq .event_part .event_text h3 {
+        padding-bottom: 30px;
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    #event_faq .event_part .remaining_time {
+        padding-top: 15px;
+    }
+    #event_faq .event_part .remaining_time .remaining_text h6 {
+        font-size: 18px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter {
+        height: 60px;
+        width: 60px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter .timer_counter h3, #event_faq .event_part .remaining_time .timer .counter .timer_counter p {
+        font-size: 14px;
+    }
+    #event_faq .event_part .top_biders {
+        padding-top: 30px;
+    }
+    #event_faq .event_part .top_biders .bider {
+        padding: 16px 0px;
+    }
+    #event_faq .event_part .top_biders .bider h5 {
+        font-size: 14px;
+    }
+    #payment {
+        border-bottom: 3px solid #3a0090;
+    }
+    #payment .subscribe h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 32px;
+        font-size: 24px;
+        padding-bottom: 13px;
+    }
+    #payment .payment_text h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 24px;
+        padding-bottom: 6px;
+    }
+    #footer .footer_about h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 26px;
+    }
+    #footer .footer_about p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        width: 230px;
+    }
+    #footer .important_link h3 {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 26px;
+    }
+    #footer .important_link .link_list .list_two {
+        margin-left: 17px;
+    }
+    #footer .important_link .link_list ul li a {
+        font-size: 13px;
+    }
+    #footer .security h3 {
+        font-size: 26px;
+    }
+    #footer .security .secure_one p {
+        width: 150px;
+    }
+    /* about page start */
+    .defrant_banner_text h4 {
+        font-size: 20px;
+        padding-top: 15px;
+    }
+    .defrant_banner_text h3 {
+        font-size: 38px;
+    }
+    #aboutPageRelatedGames .relatedGames_heading h3 {
+        font-size: 38px;
+    }
+    #aboutPageRelatedGames .relatedGames_heading {
+        padding-bottom: 25px;
+    }
+    #aboutPageRelatedGames {
+        padding-top: 80px;
+        padding-bottom: 100px;
+    }
+    .freeSpin_text{
+        padding-bottom: 40px;
+    }
+    
+     /* contact page start */
+     .contactPageMainOverly {
+        padding-top: 130px;
+        padding-bottom: 70px;
+    }
+    .contactPageMainOverly .contact_item .icon {
+        height: 60px;
+        width: 80px;
+        border-bottom: 3px solid #3a0090;
+    }
+    .contactPageMainOverly .contact_item .icon i {
+        font-size: 23px;
+        line-height: 60px;
+    }
+    .contactPageMainOverly .contact_item {
+        margin-bottom: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info {
+        padding-left: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .contactPageMainOverly .contact_item .contact_info h3 {
+        font-size: 22px;
+    }
+    /* promotion page start */
+    .offer_container {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: translateX(0%);
+    }
+
+
+    .promotion_image_text {
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    .promotion_image_text h3 {
+        font-size: 50px;
+    }
+    .promotion_image_text h3 span {
+        display: block;
+    }
+
+    .promotion_banner_text h3 {
+        font-size: 80px;
+    }
+    .promotion_banner_text h4 {
+        font-size: 40px;
+        padding-left: 0;
+    }
+    .promotion_banner_text h4 span {
+        font-size: 50px;
+    }
+    .promotion_banner_text a {
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        border-bottom: 3px solid #661355;
+    }
+    .offer_container .offer_text {
+        padding-top: 0px;
+    }
+    .offer_container .offer_text h3 {
+        font-size: 28px;
+    }
+    .offer_container .offer_text p {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .offer_container .offer_text p span {
+        padding-top: 28px;
+    }
+    #promotion_final_text .bonus_text p {
+        font-size: 18px;
+        padding-top: 20px;
+        width: 690px;
+    }
+    #promotion_final_text .bonus_text h3 {
+        font-size: 38px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* body{
+        overflow-x: hidden !important;
+    } */
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 35px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .navbar-collapse {
+        background: #000;
+        padding-bottom: 40px;
+        border-radius: 20px;
+    }
+    .register_btn a {
+        padding: 12px 24px;
+        border-bottom: 3px solid;
+        font-size: 18px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    .register_btn {
+        margin-left: 140px;
+        margin-top: 30px;
+    }
+    #banner {
+        padding-top: 132px;
+        padding-bottom: 130px;
+    }
+    #banner .banner_image {
+        position: absolute;
+        left: 0px;
+        top: 200px;
+    }
+    #banner .banner_text h5 {
+        font-size: 18px;
+    }
+    #banner .banner_text h3 {
+        font-size: 150px;
+    }
+    #banner .banner_text p {
+        text-align: left;
+        font-size: 13px;
+    }
+    #banner .banner_text a {
+        padding: 12px 20px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 4px 2px #000;
+    }
+
+
+
+    #service .service_card {
+        background: #6218d1;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-top: 25px;
+        border-bottom: 3px solid #3a0090;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        box-shadow: none;
+    }
+
+    #service .service_card h4 {
+        font-size: 32px;
+    }
+    #service .service_card h3 {
+        font-size: 22px;
+        padding-top: 14px;
+        text-shadow: 1px 4px 2px #000;
+        padding-bottom: 8px;
+    }
+    #service .service_card p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    #relatedGames {
+        padding-top: 130px;
+        padding-bottom: 20px;
+    }
+    #relatedGames .relatedGames_heading {
+        padding-bottom: 20px;
+    }
+    #relatedGames .relatedGames_heading h3 {
+        font-size: 32px;
+    }
+    #relatedGames .relatedGames_card {
+        margin-bottom: 20px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text {
+        transform: translate(-50%,-50%);
+    }
+    #relatedGames .relatedGames_card .overly .overly_text h3 {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text a {
+        padding: 12px 20px;
+        text-transform: uppercase;
+        border-radius: 4px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 4px 2px #000;
+    }
+
+    #freeSpin {
+        padding-top: 50px;
+    }
+    #freeSpin .freeSpin_text h3 {
+        font-size: 26px;
+        padding-top: 30px;
+        padding-bottom: 11px;
+    }
+    #freeSpin .freeSpin_text p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #freeSpin .freeSpin_text p span {
+        padding-top: 20px;
+    }
+
+
+    #plans {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    #plans .plans_heading h3 {
+        font-size: 32px;
+        padding-bottom: 40px;
+    }
+    #plans .plans_card {
+        margin-bottom: 50px;
+    }
+
+    #plans .plans_card .top_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid #3a0090;
+        opacity: 1;
+        visibility: visible;
+    }
+    #plans .plans_card .top_bar h6 {
+        font-size: 16px;
+    }
+    #plans .plans_card .main_card .header_part {
+        padding: 40px 45px 5px 45px;
+    }
+    #plans .plans_card .main_card .header_part h3 {
+        text-shadow: 1px 4px 2px #000;
+        font-size: 26px;
+    }
+    
+    #plans .plans_card .main_card .header_part h4 {
+        font-size: 40px;
+        padding-top: 15px;
+        padding-bottom: 8px;
+    }
+    #plans .plans_card .main_card .header_part p {
+        font-size: 12px;
+        color: #fff;
+    }
+
+    #plans .plans_card .main_card .main_part {
+        padding: 15px 45px 20px 45px;
+    }
+    #plans .plans_card .main_card .main_part p {
+        font-size: 13px;
+    }
+
+    #plans .plans_card .main_card .main_part p span {
+        padding-bottom: 16px;
+    }
+
+    #plans .plans_card .main_card .bottom_bar {
+        background: linear-gradient(to bottom, #9e4efc, #570dc8);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 14px;
+        padding-right: 14px;
+        border-bottom: 3px solid #3a0090;
+        position: relative;
+        /* bottom: 0; */
+        transform: translateY(0%);
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    
+    #plans .plans_card .main_card .bottom_bar a {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 18px;
+        transition: .5s;
+    }
+    #event_faq {
+        background: #150035;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    #event_faq .faq_text h3 {
+        padding-bottom: 20px;
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    #event_faq .accordion .accordion-item .accordion-header .accordion-button {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #event_faq .accordion .accordion-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+    #event_faq .event_part .event_text h3 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    #event_faq .event_part .remaining_time {
+        display: block;
+        /* justify-content: space-between; */
+        padding-top: 15px;
+    }
+    #event_faq .event_part .remaining_time .remaining_text h6 {
+        font-size: 18px;
+        padding-top: 0px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter {
+        margin-top: 20px;
+        height: 60px;
+        width: 60px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter .timer_counter h3, #event_faq .event_part .remaining_time .timer .counter .timer_counter p {
+        font-size: 16px;
+    }
+    #event_faq .event_part::after {
+        content: '';
+        position: absolute;
+        right: -12px;
+        bottom: 0;
+    }
+    #event_faq .event_part .top_biders .bider {
+        justify-content: space-around;
+        padding: 16px 0px;
+    }
+    #event_faq .event_part::before {
+        content: '';
+        position: absolute;
+        right: -11px;
+        bottom: 180px;
+        width: 3px;
+        height: 50px;
+        border-radius: 0px;
+        background: #1f004f;
+        z-index: 9;
+    }
+
+    #payment {
+        padding: 24px 0;
+        border-bottom: 3px solid #3a0090;
+    }
+
+    #payment .subscribe h3 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    #payment form input {
+        height: 30px;
+    }
+    #payment form span i {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    #payment form span {
+        padding-left: 13px;
+        padding-right: 13px;
+        height: 30px;
+    }
+    #payment .payment_text h3 {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    #payment .payment_text ul li {
+        margin-right: 32px;
+        margin-bottom: 20px;
+    }
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .footer_about{
+        padding-bottom: 30px;
+    }
+    #footer .footer_about h3 {
+        text-shadow: 2px 3px 2px #000;
+        font-size: 20px;
+    }
+    #footer .footer_about p {
+        font-size: 13px;
+        padding-top: 5px;
+        padding-bottom: 0px;
+        width: 259px;
+    }
+    #footer .footer_about .social_icons .icon {
+        height: 30px;
+        width: 30px;
+    }
+    #footer .footer_about .social_icons .icon i {
+        font-size: 16px;
+        line-height: 30px;
+        color: #fff;
+        text-shadow: 2px 5px 2px #3a0090;
+    }
+    #footer .important_link h3 {
+        font-size: 20px;
+    }
+    #footer .important_link .link_list ul {
+        padding-left: 0;
+        padding-top: 15px;
+    }
+    #footer .important_link .link_list ul li {
+        padding-bottom: 12px;
+    }
+    #footer .important_link .link_list ul li a {
+        font-size: 13px;
+    }
+    #footer .security h3 {
+        font-size: 20px;
+    }
+    #footer .security .secure_one p {
+        font-size: 14px;
+        width: 280px;
+    }
+
+    /* about page start */
+    .defrant_banner_text h3 {
+        font-size: 35px;
+    }
+    .defrant_banner_text h4 {
+        padding-top: 12px;
+    }
+
+    #aboutPageFreeSpin .freeSpin_text a {
+        padding: 13px 26px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 17px;
+        text-shadow: 2px 5px 2px #000;
+    }
+    #aboutPageRelatedGames .relatedGames_heading h3 {
+        font-size: 36px;
+    }
+    #aboutPageRelatedGames .relatedGames_heading {
+        padding-bottom: 30px;
+    }
+    #aboutPageRelatedGames {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    #aboutPageRelatedGames .relatedGames_card .overly .overly_text h3 {
+        font-family: "Anton", sans-serif;
+        font-weight: 400;
+        font-size: 24px;
+        color: #fff;
+        padding-bottom: 14px;
+    }
+    #aboutPageRelatedGames .relatedGames_card .overly .overly_text a {
+        padding: 12px 26px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 17px;
+        text-shadow: 2px 3px 2px #000;
+    }
+
+     /* contact page start */
+     .contactPageMainOverly {
+        padding-top: 130px;
+        padding-bottom: 70px;
+    }
+    .contactPageMainOverly .contact_item .icon {
+        height: 80px;
+        width: 80px;
+        border-bottom: 3px solid #3a0090;
+    }
+    .contactPageMainOverly .contact_item .icon i {
+        font-size: 30px;
+        line-height: 80px;
+    }
+    .contactPageMainOverly .contact_item {
+        margin-bottom: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info {
+        padding-left: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .contactPageMainOverly .contact_item .contact_info h3 {
+        font-size: 22px;
+    }
+    /* promotion page start */
+    .offer_container {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: translateX(0%);
+    }
+
+
+    .promotion_image_text {
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    .promotion_image_text h3 {
+        font-size: 50px;
+    }
+    .promotion_image_text h3 span {
+        display: block;
+    }
+
+    .promotion_banner_text h3 {
+        font-size: 80px;
+    }
+    .promotion_banner_text h4 {
+        font-size: 30px;
+        padding-left: 0;
+    }
+    .promotion_banner_text h4 span {
+        font-size: 30px;
+    }
+    .promotion_banner_text a {
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        border-bottom: 3px solid #661355;
+        margin-top: 20px;
+    }
+    .offer_container .offer_text {
+        padding-top: 0px;
+    }
+    .offer_container .offer_text h3 {
+        font-size: 28px;
+    }
+    .offer_container .offer_text p {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+    .offer_container .offer_text p span {
+        padding-top: 28px;
+    }
+    #promotion_final_text .bonus_text p {
+        font-size: 18px;
+        padding-top: 20px;
+        width: 690px;
+    }
+    #promotion_final_text .bonus_text h3 {
+        font-size: 38px;
+    }
+    .promotion_container_overly {
+        padding-top: 100px;
+    }
+    .promotion_image_text {
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+    #promotion_final_text .bonus_text p {
+        font-size: 18px;
+        padding-top: 20px;
+        width: 500px;
+    }
+    #promotion_final_text .bonus_text p span {
+        padding-top: 20px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 575.98px) { 
+    body{
+        overflow-x: hidden !important;
+    }
+    .navbar-brand {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-right: 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 35px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .navbar-collapse {
+        background: #000;
+        padding-bottom: 40px;
+        border-radius: 20px;
+    }
+    .register_btn a {
+        padding: 12px 24px;
+        border-bottom: 3px solid;
+        font-size: 18px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    .register_btn {
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    /* #banner .banner_image {
+        position: relative !important;
+        left: 0px !important;
+    } */
+    #banner {
+        padding-top: 200px;
+        padding-bottom: 80px;
+    }
+    #banner .banner_image {
+        left: 0px;
+        position: relative;
+    }
+    #banner .banner_text h5 {
+        font-size: 18px;
+    }
+    #banner .banner_text h3 {
+        font-size: 150px;
+    }
+    #banner .banner_text p {
+        text-align: left;
+        font-size: 13px;
+    }
+    #banner .banner_text a {
+        padding: 12px 20px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 4px 2px #000;
+    }
+
+    .home_service {
+        position: relative;
+        transform: translateY(0%);
+    }
+
+    #service .service_card {
+        background: #6218d1;
+        text-align: center;
+        padding: 10px 0;
+        border-bottom: 3px solid #3a0090;
+        border-bottom-left-radius: 0px;
+        border-top-left-radius: 0px;
+        box-shadow: none;
+    }
+
+    #service .service_card h4 {
+        font-size: 32px;
+    }
+    #service .service_card h3 {
+        font-size: 22px;
+        padding-top: 14px;
+        text-shadow: 1px 4px 2px #000;
+        padding-bottom: 8px;
+    }
+    #service .service_card p {
+        font-size: 14px;
+
+    }
+
+    #relatedGames {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+    #relatedGames .relatedGames_heading {
+        padding-bottom: 20px;
+    }
+    #relatedGames .relatedGames_heading h3 {
+        font-size: 32px;
+    }
+    #relatedGames .relatedGames_card {
+        margin-bottom: 20px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text {
+        transform: translate(-50%,-50%);
+    }
+    #relatedGames .relatedGames_card .overly .overly_text h3 {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+    #relatedGames .relatedGames_card .overly .overly_text a {
+        padding: 12px 20px;
+        text-transform: uppercase;
+        border-radius: 4px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 4px 2px #000;
+    }
+
+    #freeSpin {
+        padding-top: 50px;
+    }
+    #freeSpin .freeSpin_text h3 {
+        font-size: 32px;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    #freeSpin .freeSpin_text p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    #freeSpin .freeSpin_text p span {
+        padding-top: 20px;
+    }
+
+
+    #plans {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    #plans .plans_heading h3 {
+        font-size: 32px;
+        padding-bottom: 40px;
+    }
+    #plans .plans_card {
+        margin-bottom: 50px;
+    }
+
+    #plans .plans_card .top_bar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 3px solid #3a0090;
+        opacity: 1;
+        visibility: visible;
+    }
+    #plans .plans_card .top_bar h6 {
+        font-size: 16px;
+    }
+    #plans .plans_card .main_card .header_part {
+        padding: 40px 45px 5px 45px;
+    }
+    #plans .plans_card .main_card .header_part h3 {
+        text-shadow: 1px 4px 2px #000;
+        font-size: 26px;
+    }
+    
+    #plans .plans_card .main_card .header_part h4 {
+        font-size: 40px;
+        padding-top: 15px;
+        padding-bottom: 8px;
+    }
+    #plans .plans_card .main_card .header_part p {
+        font-size: 12px;
+        color: #fff;
+    }
+
+    #plans .plans_card .main_card .main_part {
+        padding: 15px 45px 20px 45px;
+    }
+    #plans .plans_card .main_card .main_part p {
+        font-size: 13px;
+    }
+
+    #plans .plans_card .main_card .main_part p span {
+        padding-bottom: 16px;
+    }
+
+    #plans .plans_card .main_card .bottom_bar {
+        background: linear-gradient(to bottom, #9e4efc, #570dc8);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 14px;
+        padding-right: 14px;
+        border-bottom: 3px solid #3a0090;
+        position: relative;
+        /* bottom: 0; */
+        transform: translateY(0%);
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    
+    #plans .plans_card .main_card .bottom_bar a {
+        text-shadow: 1px 3px 2px #000;
+        font-size: 18px;
+        transition: .5s;
+    }
+    #event_faq .faq_text h3 {
+        padding-bottom: 20px;
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    #event_faq .accordion .accordion-item .accordion-header .accordion-button {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    #event_faq .accordion .accordion-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+    }
+    #event_faq .event_part .event_text h3 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+    #event_faq .event_part .remaining_time {
+        display: block;
+        /* justify-content: space-between; */
+        padding-top: 15px;
+    }
+    #event_faq .event_part .remaining_time .remaining_text h6 {
+        font-size: 18px;
+        padding-top: 0px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter {
+        margin-top: 20px;
+        height: 60px;
+        width: 60px;
+    }
+    #event_faq .event_part .remaining_time .timer .counter .timer_counter h3, #event_faq .event_part .remaining_time .timer .counter .timer_counter p {
+        font-size: 16px;
+    }
+    #event_faq .event_part::after {
+        content: '';
+        position: absolute;
+        right: -12px;
+        bottom: 0;
+    }
+    #event_faq .event_part .top_biders .bider {
+        justify-content: space-around;
+        padding: 16px 0px;
+    }
+    #event_faq .event_part::before {
+        content: '';
+        position: absolute;
+        right: -11px;
+        bottom: 180px;
+        width: 3px;
+        height: 50px;
+        border-radius: 0px;
+        background: #1f004f;
+        z-index: 9;
+    }
+
+    #payment {
+        padding: 24px 0;
+        border-bottom: 3px solid #3a0090;
+    }
+
+    #payment .subscribe h3 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    #payment form input {
+        height: 30px;
+    }
+    #payment form span i {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    #payment form span {
+        padding-left: 13px;
+        padding-right: 13px;
+        height: 30px;
+    }
+    #payment .payment_text h3 {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    #payment .payment_text ul li {
+        margin-right: 32px;
+        margin-bottom: 20px;
+    }
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .footer_about{
+        padding-bottom: 30px;
+    }
+    #footer .footer_about h3 {
+        text-shadow: 2px 3px 2px #000;
+        font-size: 20px;
+    }
+    #footer .footer_about p {
+        font-size: 13px;
+        padding-top: 5px;
+        padding-bottom: 20px;
+        width: 298px;
+    }
+    #footer .footer_about .social_icons .icon {
+        height: 30px;
+        width: 30px;
+    }
+    #footer .footer_about .social_icons .icon i {
+        font-size: 16px;
+        line-height: 30px;
+        color: #fff;
+        text-shadow: 2px 5px 2px #3a0090;
+    }
+    #footer .important_link h3 {
+        font-size: 20px;
+    }
+    #footer .important_link .link_list ul {
+        padding-left: 0;
+        padding-top: 15px;
+    }
+    #footer .important_link .link_list ul li {
+        padding-bottom: 12px;
+    }
+    #footer .important_link .link_list ul li a {
+        font-size: 13px;
+    }
+    #footer .security h3 {
+        font-size: 20px;
+    }
+    #footer .security .secure_one p {
+        font-size: 14px;
+        width: 280px;
+    }
+
+    .defrant_banner_text h3 {
+        font-size: 30px;
+    }
+    .defrant_banner_text h4 {
+        font-size: 19px;
+        padding-top: 12px;
+    }
+    #defrentPageBanner {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+
+    /* about page Start */
+    #aboutPageRelatedGames {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    #aboutPageRelatedGames .relatedGames_heading {
+        padding-bottom: 30px;
+    }
+    #aboutPageRelatedGames .relatedGames_heading h3 {
+        font-size: 32px;
+    }
+    #aboutPageRelatedGames .relatedGames_card .overly .overly_text a {
+        padding: 10px 24px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+    #aboutPageFreeSpin .freeSpin_text a {
+        padding: 8px 24px;
+        border-bottom: 3px solid #3a0090;
+        font-size: 14px;
+        text-shadow: 1px 3px 2px #000;
+    }
+
+
+    /* contact page start */
+    .contactPageMainOverly {
+        padding-top: 130px;
+        padding-bottom: 70px;
+    }
+    .contactPageMainOverly .contact_item .icon {
+        height: 80px;
+        width: 80px;
+        border-bottom: 3px solid #3a0090;
+    }
+    .contactPageMainOverly .contact_item .icon i {
+        font-size: 30px;
+        line-height: 80px;
+    }
+    .contactPageMainOverly .contact_item {
+        margin-bottom: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info {
+        padding-left: 20px;
+    }
+    .contactPageMainOverly .contact_item .contact_info p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .contactPageMainOverly .contact_item .contact_info h3 {
+        font-size: 22px;
+    }
+
+
+    #registarPageMain {
+        padding-top: 100px;
+        background: #0b001b;
+        padding-bottom: 100px;
+    }
+    .register_form .header_text p {
+        font-size: 14px;
+        padding-top: 13px;
+        margin-bottom: 0px;
+    }
+    .register_form_footer .social_link h3 {
+        font-size: 14px;
+    }
+    .register_form_footer .text h3 {
+        font-size: 14px;
+    }
+    .register_form_footer .text{
+        padding-bottom: 20px;
+    }
+    .register_form_footer {
+        flex-wrap: wrap;
+    }
+
+    /* promotion page start */
+    .offer_container {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: translateX(0%);
+    }
+
+    .promotion_container_overly {
+        padding-top: 24px;
+    }
+    .promotion_image_text {
+        padding-left: 50px;
+        padding-top: 55px;
+    }
+    .promotion_image_text h3 {
+        font-size: 32px;
+    }
+    .promotion_image_text h3 span {
+        display: block;
+    }
+
+    .promotion_banner_text h3 {
+        font-size: 38px;
+    }
+    .promotion_banner_text h4 {
+        font-size: 17px;
+        padding-left: 0;
+    }
+    .promotion_banner_text h4 span {
+        font-size: 26px;
+    }
+    .promotion_banner_text a {
+        height: 40px;
+        line-height: 40px;
+        font-size: 18px;
+        border-bottom: 3px solid #661355;
+        margin-top: 20px;
+    }
+    .offer_container .offer_text {
+        padding-top: 0px;
+    }
+    .offer_container .offer_text h3 {
+        font-size: 24px;
+    }
+    .offer_container .offer_text p {
+        font-size: 8px;
+        padding-top: 11px;
+    }
+    .offer_container .offer_text p span {
+        padding-top: 8px;
+    }
+    
+    #promotion_final_text .bonus_text p {
+        font-size: 18px;
+        padding-top: 20px;
+        width: 690px;
+    }
+    #promotion_final_text .bonus_text h3 {
+        font-size: 20px;
+    }
+    
+    
+    
+    #promotion_final_text .bonus_text p {
+        font-size: 15px;
+        padding-top: 20px;
+        width: 279px;
+    }
+    #promotion_final_text .bonus_text p span {
+        padding-top: 20px;
+    }
+    .offer-2 img{
+     vertical-align: middle;
+        width: 150px;
+    }   
+    .offer_one {
+        top: 70px;
+    } 
+    #player_promotion {
+        padding-top: 0px;
+    }
+    .offer_three {
+        bottom: 70px;
+    }
+    
+ }
+
